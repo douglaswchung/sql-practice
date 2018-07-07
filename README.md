@@ -1,6 +1,6 @@
 # sql-practice
 
-Based on the Kaggle exercise authored by Rachael Tatman
+Based on the Kaggle exercise authored by Rachael Tatman.
 
 https://www.kaggle.com/learn/sql
 
